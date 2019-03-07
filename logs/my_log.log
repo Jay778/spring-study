@@ -1,0 +1,6 @@
+2019-03-07 09:40:59 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1975e01
+2019-03-07 09:41:00 DEBUG XmlBeanDefinitionReader:395 - Loaded 5 bean definitions from class path resource [bean.xml]
+2019-03-07 09:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2019-03-07 09:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'hello'
+2019-03-07 09:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+2019-03-07 09:41:01 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'myBeforeAdvice'
