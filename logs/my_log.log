@@ -1,0 +1,53 @@
+2019-03-07 09:40:59 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1975e01
+2019-03-07 09:41:00 DEBUG XmlBeanDefinitionReader:395 - Loaded 5 bean definitions from class path resource [bean.xml]
+2019-03-07 09:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2019-03-07 09:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'hello'
+2019-03-07 09:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+2019-03-07 09:41:01 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'myBeforeAdvice'
+2019-03-07 11:20:56 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1975e01
+2019-03-07 11:20:56 DEBUG XmlBeanDefinitionReader:395 - Loaded 5 bean definitions from class path resource [bean.xml]
+2019-03-07 11:20:56 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2019-03-07 11:20:56 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'hello'
+2019-03-07 11:20:56 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+2019-03-07 11:20:56 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'myBeforeAdvice'
+2019-03-07 11:20:57 DEBUG MyBeforeAdvice:13 - this is a before method,
+2019-03-07 19:17:52 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1975e01
+2019-03-07 19:17:53 DEBUG XmlBeanDefinitionReader:395 - Loaded 5 bean definitions from class path resource [bean.xml]
+2019-03-07 19:17:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2019-03-07 19:17:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'hello'
+2019-03-07 19:17:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+2019-03-07 19:17:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'myBeforeAdvice'
+2019-03-07 19:17:55 DEBUG MyBeforeAdvice:13 - this is a before method,
+2019-03-07 23:52:56  INFO BeforeAdvice:12 - 连接数据库...
+2019-03-11 08:30:53  INFO BeforeAdvice:12 - 连接数据库...
+2019-03-11 09:38:21  INFO ImageCopy:26 - 开始给图片添加水印
+2019-03-11 09:38:23  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 09:38:23  INFO ImageCopy:36 - 开始将图片转黑白
+2019-03-11 09:44:16  INFO ImageCopy:26 - 开始给图片添加水印
+2019-03-11 09:44:16  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 09:44:16  INFO ImageCopy:36 - 开始将图片转黑白
+2019-03-11 09:45:16  INFO ImageCopy:26 - 开始给图片添加水印
+2019-03-11 09:45:16  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 09:45:16  INFO ImageCopy:36 - 开始将图片转黑白
+2019-03-11 09:46:21  INFO ImageCopy:26 - 开始给图片添加水印
+2019-03-11 09:46:22  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 09:46:22  INFO ImageCopy:36 - 开始将图片转黑白
+2019-03-11 09:47:23  INFO ImageCopy:26 - 开始给图片添加水印
+2019-03-11 09:47:24  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 09:47:24  INFO ImageCopy:36 - 开始将图片转黑白
+2019-03-11 09:49:14  INFO ImageCopy:26 - 开始给图片添加水印
+2019-03-11 09:49:14  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 09:49:14  INFO ImageCopy:36 - 开始将图片转黑白
+2019-03-11 10:02:19  INFO ImageCopy:26 - 开始给图片添加水印
+2019-03-11 10:02:19  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 10:02:19  INFO ImageCopy:36 - 开始将图片转黑白
+2019-03-11 10:29:38  INFO ImageCopy:31 - 开始给图片添加水印
+2019-03-11 10:29:40  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 10:29:40  INFO ImageCopy:49 - 开始将图片转黑白
+2019-03-11 11:19:48  INFO ImageCopy:31 - 开始给图片添加水印
+2019-03-11 11:19:50  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 11:19:50  INFO ImageCopy:49 - 开始将图片转黑白
+2019-03-11 11:21:07  INFO ImageCopy:31 - 开始给图片添加水印
+2019-03-11 11:21:52  INFO ImageCopy:31 - 开始给图片添加水印
+2019-03-11 11:21:53  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
+2019-03-11 11:21:53  INFO ImageCopy:49 - 开始将图片转黑白

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Ioc" />
+        <module name="jianshu" />
+        <module name="quikstart" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AOP" target="1.8" />
+      <module name="Ioc" target="1.8" />
+      <module name="jianshu" target="1.7" />
+      <module name="quickstart" target="1.5" />
+      <module name="quikstart" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
