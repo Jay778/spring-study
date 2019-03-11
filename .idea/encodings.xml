@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/../hj/jianshu" charset="UTF-8" />
+=======
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d
     <file url="file://$PROJECT_DIR$/AOP" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Ioc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/quikstart" charset="UTF-8" />

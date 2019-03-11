@@ -6,11 +6,15 @@
 
   <groupId>com.spring.aop</groupId>
   <artifactId>AOP</artifactId>
+<<<<<<< HEAD
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>../../hj/jianshu</module>
   </modules>
+=======
+  <version>1.0-SNAPSHOT</version>
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d
 
   <name>AOP</name>
   <!-- FIXME change it to the project's website -->
@@ -25,13 +29,17 @@
     <junit.version>4.12</junit.version>
     <log4j.version>1.2.17</log4j.version>
     <slf4j.version>1.7.12</slf4j.version>
+<<<<<<< HEAD
     <hutool.version>4.5.1</hutool.version>
+=======
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d
   </properties>
 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
+<<<<<<< HEAD
       <version>4.12</version>
       <scope>test</scope>
     </dependency>
@@ -48,6 +56,11 @@
       <artifactId>hutool-all</artifactId>
       <version>${hutool.version}</version>
     </dependency>
+=======
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d
 <!--spring-context依赖-->
     <dependency>
       <groupId>org.springframework</groupId>

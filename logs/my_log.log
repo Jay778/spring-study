@@ -4,6 +4,7 @@
 2019-03-07 09:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'hello'
 2019-03-07 09:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
 2019-03-07 09:41:01 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'myBeforeAdvice'
+<<<<<<< HEAD
 2019-03-07 11:20:56 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1975e01
 2019-03-07 11:20:56 DEBUG XmlBeanDefinitionReader:395 - Loaded 5 bean definitions from class path resource [bean.xml]
 2019-03-07 11:20:56 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
@@ -51,3 +52,5 @@
 2019-03-11 11:21:52  INFO ImageCopy:31 - 开始给图片添加水印
 2019-03-11 11:21:53  INFO ImageCopy:14 - 开始将图片从D盘复制到F盘...
 2019-03-11 11:21:53  INFO ImageCopy:49 - 开始将图片转黑白
+=======
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d

@@ -6,15 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="Ioc" />
         <module name="jianshu" />
+=======
+        <module name="AOP" />
+        <module name="Ioc" />
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d
         <module name="quikstart" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AOP" target="1.8" />
       <module name="Ioc" target="1.8" />
+<<<<<<< HEAD
       <module name="jianshu" target="1.7" />
+=======
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d
       <module name="quickstart" target="1.5" />
       <module name="quikstart" target="1.8" />
     </bytecodeTargetLevel>

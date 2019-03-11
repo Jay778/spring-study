@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+<<<<<<< HEAD
     <file type="web" url="file://$PROJECT_DIR$/../hj/jianshu" />
+=======
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d
     <file type="web" url="file://$PROJECT_DIR$/quickstart" />
   </component>
   <component name="MavenProjectsManager">

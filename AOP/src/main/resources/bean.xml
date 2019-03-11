@@ -4,18 +4,26 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
     <bean id="hello" class="com.spring.aop.HelloImpl"/>
     <bean id="myBeforeAdvice" class="com.spring.aop.MyBeforeAdvice"/>
+<<<<<<< HEAD
     <bean id="beforeAdvice" class="com.spring.aop.BeforeAdvice"/>
     <bean id="userdao" class="com.spring.aop.UserDaoImpl"/>
     <aop:config>
             <aop:aspect id="before" ref="myBeforeAdvice">
+=======
+    <aop:config>
+        <aop:aspect id="before" ref="myBeforeAdvice">
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d
             <aop:pointcut id="myPointCut" expression="execution(* com.spring.aop.*.*(..))"/>
             <aop:before method="beforemethod" pointcut-ref="myPointCut"/>
         </aop:aspect>
     </aop:config>
+<<<<<<< HEAD
     <aop:config>
 <aop:aspect id="jdbcconnet" ref="beforeAdvice">
     <aop:pointcut id="myPointCut" expression="execution(* com.spring.aop.*.*(..))"/>
     <aop:before method="jdbcconnetmethod" pointcut-ref="myPointCut"/>
 </aop:aspect>
     </aop:config>
+=======
+>>>>>>> 4e4808dbfb36f5a59ab2ee60e79d6d253143c39d
 </beans>
